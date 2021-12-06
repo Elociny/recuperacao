@@ -1,0 +1,7 @@
+.container {
+  padding: 25px 25px;
+
+  text-align: center;
+  justify-content: space-around;
+  align-items: center;
+}
